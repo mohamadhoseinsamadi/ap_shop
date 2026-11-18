@@ -1,0 +1,14 @@
+# NetBeans build output
+build/
+dist/
+*.class
+
+# NetBeans private settings
+nbproject/private/
+
+# Archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

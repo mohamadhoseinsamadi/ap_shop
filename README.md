@@ -1,6 +1,18 @@
 # Ghatei Kala
 
-A simple rendition of an online supermarket, including an intro screen, login/signup screen, a product list, a user info screen, a shoping cart, and a checkout screen.
+> **Advanced Programming (AP) 2024 — team project.** Originally developed in the team repository [iamhamidhosseini/Ghatei-Kala](https://github.com/iamhamidhosseini/Ghatei-Kala); this repository hosts the source with the original documentation. Screenshots below are from the original repo.
+
+A simple rendition of an online supermarket, including an intro screen, login/signup screen, a product list, a user info screen, a shopping cart, and a checkout screen. Built with Java Swing (NetBeans project).
+
+## Building
+
+Open the project in NetBeans (it uses the included Ant `build.xml`), or build from the command line with Ant:
+
+```bash
+ant
+```
+
+Requires a JDK with Swing (any standard JDK 8+).
 
 # Intro Screen
 
